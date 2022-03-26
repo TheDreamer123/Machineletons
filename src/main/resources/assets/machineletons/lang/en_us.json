@@ -1,3 +1,4 @@
 {
-  "gamerule.skeletonArrowCount": "Skeleton arrow count (Machineletons)"
+  "gamerule.skeletonArrowCount": "Skeleton arrow count (Machineletons)",
+  "gamerule.skeletonArrowCount.description": "Amount of arrows a skeleton is able to shoot at once."
 }
